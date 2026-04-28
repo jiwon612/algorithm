@@ -60,7 +60,7 @@ def main():
         
         # 난이도순(예: 1, 2, 3...)으로 정렬하여 출력
         for diff in sorted(data[platform].keys()):
-            content += f"\n### 🚀 Level {diff}\n"
+            content += f"\n### 🚀 {diff}\n"
             content += "| 문제명 | 링크 |\n"
             content += "| :--- | :--- |\n"
             
