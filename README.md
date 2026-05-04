@@ -243,7 +243,9 @@
 ### 🚀 2
 | 문제명 | 링크 |
 | :--- | :--- |
+| 8단 변속기 | [링크](./Softeer/2/8%EB%8B%A8%20%EB%B3%80%EC%86%8D%EA%B8%B0.cpp) |
 | GBC | [링크](./Softeer/2/GBC.cpp) |
+| 금고털이 | [링크](./Softeer/2/%EA%B8%88%EA%B3%A0%ED%84%B8%EC%9D%B4.cpp) |
 | 바이러스 | [링크](./Softeer/2/%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4.cpp) |
 | 장애물 인식 프로그램 | [링크](./Softeer/2/%EC%9E%A5%EC%95%A0%EB%AC%BC%20%EC%9D%B8%EC%8B%9D%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8.cpp) |
 | 지도 자동 구축 | [링크](./Softeer/2/%EC%A7%80%EB%8F%84%20%EC%9E%90%EB%8F%99%20%EA%B5%AC%EC%B6%95.cpp) |
@@ -253,5 +255,6 @@
 | :--- | :--- |
 | 성적 평가 | [링크](./Softeer/3/%EC%84%B1%EC%A0%81%20%ED%8F%89%EA%B0%80.cpp) |
 | 성적 평균 | [링크](./Softeer/3/%EC%84%B1%EC%A0%81%20%ED%8F%89%EA%B7%A0.cpp) |
+| 순서대로 방문하기 | [링크](./Softeer/3/%EC%88%9C%EC%84%9C%EB%8C%80%EB%A1%9C%20%EB%B0%A9%EB%AC%B8%ED%95%98%EA%B8%B0.cpp) |
 | 징검다리 | [링크](./Softeer/3/%EC%A7%95%EA%B2%80%EB%8B%A4%EB%A6%AC.cpp) |
 | 출퇴근길 | [링크](./Softeer/3/%EC%B6%9C%ED%87%B4%EA%B7%BC%EA%B8%B8.cpp) |
